@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lotto_app_2020/static/css/main.6b6b40d8.chunk.css",
+    "main.js": "/lotto_app_2020/static/js/main.6f99f6eb.chunk.js",
+    "main.js.map": "/lotto_app_2020/static/js/main.6f99f6eb.chunk.js.map",
+    "runtime-main.js": "/lotto_app_2020/static/js/runtime-main.3eaefa46.js",
+    "runtime-main.js.map": "/lotto_app_2020/static/js/runtime-main.3eaefa46.js.map",
+    "static/js/2.258c7420.chunk.js": "/lotto_app_2020/static/js/2.258c7420.chunk.js",
+    "static/js/2.258c7420.chunk.js.map": "/lotto_app_2020/static/js/2.258c7420.chunk.js.map",
+    "index.html": "/lotto_app_2020/index.html",
+    "precache-manifest.648fefeda101e4e7e8c24a4d2860638d.js": "/lotto_app_2020/precache-manifest.648fefeda101e4e7e8c24a4d2860638d.js",
+    "service-worker.js": "/lotto_app_2020/service-worker.js",
+    "static/css/main.6b6b40d8.chunk.css.map": "/lotto_app_2020/static/css/main.6b6b40d8.chunk.css.map",
+    "static/js/2.258c7420.chunk.js.LICENSE.txt": "/lotto_app_2020/static/js/2.258c7420.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eaefa46.js",
+    "static/js/2.258c7420.chunk.js",
+    "static/css/main.6b6b40d8.chunk.css",
+    "static/js/main.6f99f6eb.chunk.js"
+  ]
+}
